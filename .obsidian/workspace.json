@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "7c60e0946eb222c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1516f3c086fb3f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf07a92d415414b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Бизнес идея.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Бизнес идея"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb51b224b1e5682c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a4dedb6afbe1634",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29bbafc3c5ffcac8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "b8c427e838b3d4c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "e88e7268be082865",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dead418fe34a3ef5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ee8119980589d88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7bcc00a093f6a61",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Бизнес идея.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Бизнес идея"
+            }
+          },
+          {
+            "id": "411b709566ff3d60",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Бизнес идея.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Бизнес идея"
+            }
+          },
+          {
+            "id": "af5288d16e9a1c71",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "ac372a60ebdcaf1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Бизнес идея.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Бизнес идея"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "cf07a92d415414b4",
+  "lastOpenFiles": [
+    "Стек технологий.md",
+    "Бизнес идея.md",
+    "Endpoints/Страница с текущими занятиями.md",
+    "Endpoints/Карточка ученика.md",
+    "База данных/Описание процессов.md",
+    "База данных/SQL представление.md",
+    "База данных/Связи в базе данных.canvas"
+  ]
+}
